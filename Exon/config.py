@@ -45,13 +45,13 @@ class Config(object):
     ARQ_API_KEY = "TENRCY-KDKSK-MSMSM-OXQYYO-ARQ"
     BOT_ID = "5408158735"
     TOKEN = "5458182410:KINGABISHNOI-UM"
-    OWNER_ID = "1452219013"
+    OWNER_ID = "828804574"
     OPENWEATHERMAP_ID = "22322"
-    OWNER_USERNAME = "Abishnoi1M"
-    BOT_USERNAME = "Exon_Robot"
-    SUPPORT_CHAT = "AbishnoiMF"
-    UPDATES_CHANNEL = "Abishnoi_bots"
-    SUPPORT_CHANNEL = "Abishnoi_bots"
+    OWNER_USERNAME = "@ShivanshuDeo"
+    BOT_USERNAME = "@Cruella_Robot"
+    SUPPORT_CHAT = "@TheShivanshu"
+    UPDATES_CHANNEL = "https://t.me/+9tat1W0xiP5hYWJl"
+    SUPPORT_CHANNEL = "https://t.me/theshivanshu"
     JOIN_LOGGER = "-1001497222182"
     EVENT_LOGS = "-1001497222182"
     ERROR_LOGS = "-1001497222182"
@@ -70,7 +70,7 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = ""
-    SPAMWATCH_SUPPORT_CHAT = "@AbishnoiMF"
+    SPAMWATCH_SUPPORT_CHAT = "@ShivanshuDeo"
 
     REDIS_URL = ""
 
@@ -109,8 +109,8 @@ class Config(object):
     MONGO_PORT = "27017"
     MONGO_DB = "EXON"
     PHOTOS = "https://te.legra.ph/file/d711e47719beb488e9cec.jpg  https://te.legra.ph/file/95e84b525d315e419ee91.jpg  https://te.legra.ph/file/9eb057cd32329d77926f1.jpg".splits()
-    HELP_IMG = ""
-    START_IMG = ""
+    HELP_IMG = "https://te.legra.ph/file/ebee79157596d9c3befce.mp4"
+    START_IMG = "https://te.legra.ph/file/ebee79157596d9c3befce.mp4"
     TIME_API_KEY = "5LB4TAKPEKZ0"
     INFOPIC = False
     GENIUS_API_TOKEN = "28jwoKAkskaSjsnsksAjnwjUJwj"
