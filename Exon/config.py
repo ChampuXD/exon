@@ -108,9 +108,9 @@ class Config(object):
     BL_CHATS = []
     MONGO_PORT = "27017"
     MONGO_DB = "EXON"
-    PHOTO = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
-    HELP_IMG = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
-    START_IMG = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
+    PHOTOS = "https://te.legra.ph/file/d711e47719beb488e9cec.jpg  https://te.legra.ph/file/95e84b525d315e419ee91.jpg  https://te.legra.ph/file/9eb057cd32329d77926f1.jpg".splits()
+    HELP_IMG = ""
+    START_IMG = ""
     TIME_API_KEY = "5LB4TAKPEKZ0"
     INFOPIC = False
     GENIUS_API_TOKEN = "28jwoKAkskaSjsnsksAjnwjUJwj"
